@@ -39,8 +39,8 @@ Material:
     - _VoronoiScale: 0.1
     m_Colors:
     - _ClipColor: {r: 0, g: 8, b: 8, a: 4}
-    - _Color: {r: 0.3537736, g: 0.53840995, b: 1, a: 1}
-    - _FresnelColor: {r: 14.442395, g: 2.1907644, b: 16.01524, a: 4}
+    - _Color: {r: 0.74968505, g: 0.35294116, b: 1, a: 1}
+    - _FresnelColor: {r: 2.7845972, g: 2.2639344, b: 16.015242, a: 4}
     - _ReflectionColor: {r: 1, g: 1, b: 1, a: 1}
     - _RefractionColor: {r: 3.0533624, g: 0.7633406, b: 2.6097462, a: 1}
     - _SecClipColor: {r: 4, g: 2, b: 8, a: 4}

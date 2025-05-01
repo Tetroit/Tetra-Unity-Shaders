@@ -30,8 +30,8 @@ Material:
     m_Ints: []
     m_Floats:
     - _EndClip: 3.1
-    - _FilmThickness: 0.67
-    - _IOR: 1.4
+    - _FilmThickness: 0.8
+    - _IOR: 1.2
     - _Metallic: 1
     - _Smoothness: 1
     - _StartClip: 3
