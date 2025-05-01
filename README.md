@@ -1,6 +1,6 @@
 # Tetra Unity Shaders
-A collection of shaders made on Unity
-TO use, simply clone this repo in your Unity "Assets" folder
+A collection of shaders made on Unity<br>
+To use, simply clone this repo in your Unity "Assets" folder
 ***
 # Contents
 ## Shaders
